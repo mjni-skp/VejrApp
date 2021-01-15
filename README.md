@@ -1,1 +1,3 @@
 # VejrApp
+
+Marcus Jannich Nielsen
